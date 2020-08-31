@@ -12,9 +12,7 @@
 </div>
 
 I came to know about it around mid August. Tried it and shared with others: [GitHub profile README a rage!](https://learnbyinsight.com/2020/08/23/github-profile-readme-a-rage/)
-Along the way, I tried to share my profile at couple of open repos for others to look and resuse - but they are still pending merges so thought, let me open up a repo and see if I can be more active in mering PRs and adding the sample profiles once they share. 
-
-So, that originated this repository. 
+Along the way, I tried to share my profile at couple of open repos for others to look and resuse - but they are still pending merges so thought, let me open up a repo and see if I can be more active in mering PRs and adding the sample profiles once they share. So, that originated this repository. 
 
 Hope to have multiple samples of README that can be viewed and help jumpstart and imagine what all and how it could be done. 
 
