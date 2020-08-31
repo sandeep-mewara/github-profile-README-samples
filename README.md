@@ -1,4 +1,3 @@
-# github-profile-README-samples
 <h1 align="center">Github Profile README Samples</h1>
 
 ![Awesome Github Profile README Samples](https://github.com/samewara/github-profile-README-samples/blob/master/awesome.png)
