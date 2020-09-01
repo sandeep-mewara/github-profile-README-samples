@@ -34,25 +34,39 @@ Hope to have multiple samples of README that can be viewed and help jumpstart an
 
 #### Simple and Sweet 🤗
 - [Sandeep Mewara](https://github.com/samewara)
--
+- [Jhey Tompkins](https://github.com/jh3y/jh3y)
+- [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
+- [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 
 #### Descriptive 🗒
-- 
+- [Raymond Li](https://github.com/Raymo111/Raymo111)
+- [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
+- [Aditya Pal](https://github.com/sciencepal/sciencepal)
+- [Xunzhuo](https://github.com/xunzhuo/xunzhuo)
 
 #### Code Style 👨🏽‍💻
-- 
+- [Ash Baker](https://github.com/ashbakernz/ashbakernz)
+- [Kiho](https://github.com/monkindey/monkindey)
+- [Redowan Delowar](https://github.com/rednafi/rednafi)
 
 #### Game Style 🚀
--
+- [Tim Burgan](https://github.com/timburgan/timburgan)
+- [Jonathan Gin](https://github.com/JonathanGin52/JonathanGin52)
+- [Ross Williams](https://github.com/rossjrw/rossjrw)
 
 #### Auto Updating 💫
-- 
+- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
+- [Shawn Wang](https://github.com/sw-yx/sw-yx)
+- [Simon Willison](https://github.com/simonw/simonw)
 
 #### Anime 👾
-- 
+- [Ing](https://github.com/innng/innng)
+- [edisonlee55](https://github.com/edisonlee55/edisonlee55)
+- [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 
 #### Tabular 😎
-- 
+- [Delta456](https://github.com/Delta456)
+- [xiaoluoboding](https://github.com/xiaoluoboding)
 
 ## Tools
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
