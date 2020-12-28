@@ -33,7 +33,7 @@ Hope to have multiple samples of README that can be viewed and help jumpstart an
 ## Categories
 
 #### Simple and Sweet 🤗
-- [Sandeep Mewara](https://github.com/samewara)
+- [Sandeep Mewara](https://github.com/sandeep-mewara)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
